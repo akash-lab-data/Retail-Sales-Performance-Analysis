@@ -129,7 +129,8 @@ Dashboard includes:
 ---
 
 ## Dashboard Preview
-!"C:\Users\akash\OneDrive\Desktop\AKASH BHAI FILE\Projects\Retail-Intelligence-System\Outputs Screenshots\Dashboard.png"
+<img width="1173" height="663" alt="Dashboard" src="https://github.com/user-attachments/assets/bee97451-db94-4f1e-95e2-88e2d08e4cf8" />
+
 
 ---
 
